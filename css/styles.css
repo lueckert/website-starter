@@ -1,6 +1,7 @@
 body {
-	background: red;
+	background: url("../img/bg.png");
 }
 h1 {
 	background: green;
+	font-family: 'Londrina Outline', cursive;
 }
